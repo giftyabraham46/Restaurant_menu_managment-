@@ -170,6 +170,16 @@ project/
 * Calorie-aware recommendations
 
 ---
+# Demo of the project 
+
+
+<img width="1918" height="990" alt="Screenshot 2026-03-22 203027" src="https://github.com/user-attachments/assets/448b1288-8d33-48cc-89e7-6e0cc452d539" />
+
+
+
+https://github.com/user-attachments/assets/32a0b676-3a40-44f9-a8a9-180d011b7b48
+
+---
 
 # 🤝 Contribution
 
